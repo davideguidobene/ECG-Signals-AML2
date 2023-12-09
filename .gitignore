@@ -1,3 +1,5 @@
 
 *.csv
 *.sav
+ENCASE/data_test
+*.pkl
