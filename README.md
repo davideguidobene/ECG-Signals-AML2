@@ -1,4 +1,4 @@
-# Heart_Rhythm_Classification_From_Raw_ECG_Signals_AML2
+# Heart Rhythm Classification From Raw ECG Signals
  Project 2 for the course of Advanced Machine Learning. Heart rhythm classification from manually perturbed ECG Signals. Evaluation is based on F1-score.
 
  #RESULTS 8th team out of 121 teams. Score: 0.845 (1st team score: 0.852. Last team score: 0.577).
